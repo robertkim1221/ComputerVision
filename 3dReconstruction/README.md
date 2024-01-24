@@ -16,7 +16,7 @@ This repository contains Python implementations and datasets for 3D reconstructi
 
 4. Bundle Adjustment: Refining 3D coordinates and camera parameters to minimize reprojection error.
 
-5. Multiview Keypoint Reconstruction (Extra Credit): Using multi-view capture to reconstruct moving objects, like vehicles, in 3D.
+5. Multiview Keypoint Reconstruction: Using multi-view capture to reconstruct moving objects, like vehicles, in 3D.
 
 ### Applications
 The repository is tailored for educational and research purposes in advanced computer vision, particularly for those interested in 3D reconstruction from 2D images.
